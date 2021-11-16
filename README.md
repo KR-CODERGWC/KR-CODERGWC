@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KR-CODERGWC
+- 👋 Hi, I’m Kaiya Roberts or @KR-CODERGWC , and I am a Computer SCience BS track student at Florida International University
 - 👀 I’m interested in learning, coding, theatre, adventure, and travelling
 - 🌱 I’m currently learning Java, mobile devlopment, game devlopment, REACT, and Data Structures
 - 💞️ I’m looking to collaborate on project management projects and software engineering projects
